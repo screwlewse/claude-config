@@ -1,0 +1,157 @@
+{
+  "permissions": {
+    "alwaysAllow": [
+      "Read",
+      "Grep",
+      "Glob",
+      "LS",
+      "View",
+      "TodoWrite",
+      "Task",
+      "WebFetch",
+      "WebSearch",
+      "ExitPlanMode",
+      "Bash(git *)",
+      "Bash(git -C *)",
+      "Bash(gh *)",
+      "Bash(uv *)",
+      "Bash(npm *)",
+      "Bash(docker *)",
+      "Bash(docker-compose *)",
+      "Bash(pytest *)",
+      "Bash(rg *)",
+      "Bash(ripgrep *)",
+      "Bash(fd *)",
+      "Bash(fzf *)",
+      "Bash(bat *)",
+      "Bash(zoxide *)",
+      "Bash(z *)",
+      "Bash(cd *)",
+      "Bash(ls *)",
+      "Bash(which *)",
+      "Bash(find /Users/davidg/code/taskasaurus*)",
+      "Bash(find /Users/davidg/.claude*)",
+      "Bash(pwd)",
+      "Bash(afplay *)",
+      "Bash(python3 ~/.claude/play-sound.py *)",
+      "Bash(python3 ~/.claude/log_command.py *)",
+      "mcp__filesystem__read_file",
+      "mcp__memory__store",
+      "mcp__fetch__fetch",
+      "mcp__github__*",
+      "mcp__context7__*",
+      "mcp__puppeteer__*"
+    ],
+    "requireConfirmation": [
+      "Write",
+      "Edit",
+      "MultiEdit",
+      "NotebookEdit",
+      "Bash(rm *)",
+      "Bash(sudo *)",
+      "Bash(chmod *)",
+      "Bash(chown *)",
+      "Bash(*deploy*)",
+      "Bash(find /Users*)",
+      "Bash(find /System*)",
+      "Bash(find /Library*)",
+      "mcp__filesystem__write_file"
+    ]
+  },
+  "model": "sonnet",
+  "hooks": {
+    "Notification": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /Users/davidg/.claude/play_sound.py question"
+          },
+          {
+            "type": "command",
+            "command": "python3 /Users/davidg/.claude/log_command.py"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /Users/davidg/.claude/play_sound.py done"
+          }
+        ]
+      }
+    ]
+  },
+  "allowedTools": [
+    "Read",
+    "Write",
+    "Edit",
+    "MultiEdit",
+    "Grep",
+    "Glob",
+    "LS",
+    "Bash",
+    "Terminal",
+    "View",
+    "WebFetch",
+    "WebSearch",
+    "Task",
+    "TodoWrite",
+    "NotebookEdit",
+    "ExitPlanMode",
+    "mcp__*"
+  ],
+  "autoUpdates": true,
+  "theme": "dark",
+  "environment": {
+    "NODE_ENV": "development",
+    "DOCKER_BUILDKIT": "1",
+    "COMPOSE_DOCKER_CLI_BUILD": "1"
+  },
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "~/",
+        "/tmp"
+      ]
+    },
+    "memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ]
+    },
+    "fetch": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-fetch"
+      ]
+    },
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_TOKEN}"
+      }
+    },
+    "puppeteer": {
+      "command": "node",
+      "args": [
+        "/Users/davidg/code/taskasaurus-mvp/local-puppeteer-mcp.js"
+      ]
+    }
+  }
+}
