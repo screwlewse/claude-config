@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Check current directory and files to be pushed",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Initialize git repository if not already done",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create GitHub repository",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add remote origin to local repo",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Add and commit all files",
+    "status": "in_progress",
+    "id": "5"
+  },
+  {
+    "content": "Push files to GitHub",
+    "status": "pending",
+    "id": "6"
+  }
+]

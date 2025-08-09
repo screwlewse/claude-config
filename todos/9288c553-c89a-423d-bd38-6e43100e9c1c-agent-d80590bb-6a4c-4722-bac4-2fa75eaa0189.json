@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Create comprehensive test data population script",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Run the script to populate database with test families",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create users for each family (parents with passwords, children without)",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Create realistic chores in various statuses (assigned, completed, approved, needs_redo)",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create appealing rewards with different point costs",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Create sample redemption requests in various states",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Verify test data by testing API login and functionality",
+    "status": "in_progress",
+    "id": "7"
+  }
+]

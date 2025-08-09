@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Update code-reviewer to claude-sonnet-4-20250514",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update hello-world-agent to claude-sonnet-4-20250514",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Update agent-creator to claude-sonnet-4-20250514",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Update tts-notification-agent to claude-sonnet-4-20250514",
+    "status": "completed",
+    "id": "4"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create Dockerfile for local Puppeteer MCP server with increased stack size",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create docker-compose.yml for easy container management",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Build and test the Docker container locally",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Update Claude Code MCP configuration to use local server",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Test the local MCP server with screenshot operations",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Provide complete setup and testing instructions",
+    "status": "completed",
+    "id": "6"
+  }
+]

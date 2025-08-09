@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Install essential CLI development tools via Homebrew",
+    "status": "completed",
+    "id": "36"
+  },
+  {
+    "content": "Configure MCP servers for Claude Code",
+    "status": "completed",
+    "id": "37"
+  },
+  {
+    "content": "Set up development environment for Python/Node.js",
+    "status": "completed",
+    "id": "38"
+  },
+  {
+    "content": "Configure safe command permissions",
+    "status": "completed",
+    "id": "39"
+  }
+]

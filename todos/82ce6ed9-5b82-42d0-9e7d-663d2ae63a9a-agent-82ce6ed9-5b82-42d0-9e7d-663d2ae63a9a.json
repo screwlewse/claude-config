@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Update CLAUDE.md with Mandatory Workflow Enforcement section",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add Session Start Checklist to CLAUDE.md",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Add Automatic Agent Triggers section to CLAUDE.md",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add Commit Decision Logic to CLAUDE.md",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Add Required Project Structure section to CLAUDE.md",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Add Behavioral Requirements section to CLAUDE.md",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Update agent description files with explicit triggers",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Test the updated configuration",
+    "status": "completed",
+    "id": "8"
+  }
+]

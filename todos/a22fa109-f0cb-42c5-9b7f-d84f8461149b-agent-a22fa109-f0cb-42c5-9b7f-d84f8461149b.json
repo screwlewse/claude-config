@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Check current git remote URL to confirm repository name",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Clone taskasaurus-mvp repository to ~/code/taskasaurus-mvp/",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Verify the cloned repository has all the latest design system changes",
+    "status": "completed",
+    "id": "3"
+  }
+]

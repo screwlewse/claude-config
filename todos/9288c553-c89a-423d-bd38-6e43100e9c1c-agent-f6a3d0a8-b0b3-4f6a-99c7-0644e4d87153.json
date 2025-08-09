@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Clean up Supabase containers and CLI",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update backend dependencies in requirements.txt",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Replace database.py with standard PostgreSQL connection",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Replace auth.py with JWT-based authentication system",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Add user registration, login, logout endpoints",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Update database models to remove Supabase auth references",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Update API routers to use new auth system",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Add Redis session management",
+    "status": "completed",
+    "id": "8"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "content": "Create greeting model with TypeScript interfaces for Greeting data structure",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create greeting service with in-memory storage (Map) for CRUD operations",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create validation middleware for greeting input validation",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Create greetings routes with all 5 CRUD endpoints (POST, GET all, GET by ID, PUT, DELETE)",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Integrate greetings routes into main app.ts following existing patterns",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Create comprehensive tests for all CRUD operations in greetings.test.ts",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Update existing API tests to ensure no regressions",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Run linting and type checking to ensure code quality",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Run all tests to verify implementation works correctly",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Hand off to code-reviewer agent for review as per protocol",
+    "status": "completed",
+    "id": "10"
+  }
+]

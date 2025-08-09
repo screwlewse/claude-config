@@ -1,0 +1,72 @@
+[
+  {
+    "content": "Set up project structure in ~/code/tsaurus with backend and frontend directories",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Set up Supabase project and configure PostgreSQL database",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Initialize backend with Python + FastAPI + Supabase connection",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Implement database models and API endpoints (families, chores, rewards)",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Set up Next.js 14 + React + React Query + Tailwind frontend",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Configure Shadcn/ui component library and Supabase client",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Build authentication system with Supabase Auth",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Create family registration and member management UI",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Build family dashboard with real-time updates",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Implement chore creation, assignment, and completion flows",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "Build reward creation and redemption system",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "Deploy to Railway.app with production configuration",
+    "status": "completed",
+    "id": "12"
+  },
+  {
+    "content": "Create comprehensive test suite (unit, integration, Puppeteer E2E)",
+    "status": "completed",
+    "id": "13"
+  },
+  {
+    "content": "Test complete user workflow end-to-end with 3 families",
+    "status": "pending",
+    "id": "14"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "Read(*)",
+      "Write(*)",
+      "Edit(*)",
+      "MultiEdit(*)",
+      "Glob(*)",
+      "Grep(*)",
+      "LS(*)",
+      "WebFetch(*)",
+      "WebSearch(*)",
+      "Task(*)",
+      "TodoWrite(*)",
+      "NotebookEdit(*)",
+      "BashOutput(*)",
+      "KillBash(*)"
+    ],
+    "deny": [
+      "Bash(rm -rf /*)",
+      "Bash(rm -rf ~/.*)",
+      "Bash(rm -rf /Users/*)",
+      "Bash(rm -rf /System/*)",
+      "Bash(rm -rf /Library/*)",
+      "Bash(rm -rf /Applications/*)",
+      "Bash(rm -rf /usr/*)",
+      "Bash(rm -rf /bin/*)",
+      "Bash(rm -rf /sbin/*)",
+      "Bash(rm -rf /etc/*)",
+      "Bash(rm -rf /var/*)"
+    ]
+  }
+}

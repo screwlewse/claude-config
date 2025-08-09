@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Update API functions to match backend endpoints specification",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix chore status workflow - complete/approve/needs_redo actions",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Enhance create chore dialog with point value presets (5,10,15,20+)",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add due date alerts and overdue indicators to chore cards",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Implement proper error handling with retry logic and offline support",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Add loading states and optimistic updates for all chore operations",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Implement proper pending approval queue for parents",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Add point award notifications and celebration animations",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Test all chore flows end-to-end with proper status transitions",
+    "status": "completed",
+    "id": "9"
+  }
+]

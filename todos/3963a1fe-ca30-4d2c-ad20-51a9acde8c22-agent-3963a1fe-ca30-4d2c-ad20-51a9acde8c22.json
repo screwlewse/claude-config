@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Create GitHub repository for Taskasaurus MVP",
+    "status": "completed",
+    "id": "41"
+  },
+  {
+    "content": "Start building MVP backend with FastAPI + uv",
+    "status": "in_progress",
+    "id": "42"
+  },
+  {
+    "content": "Set up project structure with optimized toolchain",
+    "status": "pending",
+    "id": "43"
+  }
+]

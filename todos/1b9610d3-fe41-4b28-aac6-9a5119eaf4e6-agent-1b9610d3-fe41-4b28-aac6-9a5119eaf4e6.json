@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Refactor code-reviewer.md to <100 lines, only report to senior-engineer, basic quality checks",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Refactor senior-engineer.md to strict TDD approach, P0/P1/P2 system, include Docker testing",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix hello-world-agent.md template and WebSearch usage",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Minor cleanup of agent-creator.md",
+    "status": "completed",
+    "id": "4"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Update hooks configuration to use working format from successful implementations",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Test the updated hook configuration",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Verify sound notifications work during normal Claude Code usage",
+    "status": "completed",
+    "id": "3"
+  }
+]

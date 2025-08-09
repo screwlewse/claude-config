@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Examine existing codebase and PRD files to understand current state",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "examine-codebase"
+  },
+  {
+    "content": "Create unified phased PRD with MVP-first approach",
+    "status": "pending",
+    "priority": "high",
+    "id": "create-unified-prd"
+  },
+  {
+    "content": "Structure PRD with sprint-based phases and testable deliverables",
+    "status": "pending",
+    "priority": "high",
+    "id": "structure-prd-phases"
+  }
+]

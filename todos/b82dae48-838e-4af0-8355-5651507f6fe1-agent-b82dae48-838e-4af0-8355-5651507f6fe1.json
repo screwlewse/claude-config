@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Navigate to ~/code/temp-test/ directory",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create PRD using product_architect agent",
+    "status": "in_progress",
+    "id": "2"
+  },
+  {
+    "content": "Test engineer agent implementation",
+    "status": "pending",
+    "id": "3"
+  },
+  {
+    "content": "Test code reviewer agent",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Verify agent communication protocols",
+    "status": "pending",
+    "id": "5"
+  }
+]

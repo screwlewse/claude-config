@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Create React app structure with src/ directory and main components",
+    "status": "completed",
+    "id": "setup-react-structure"
+  },
+  {
+    "content": "Add TailwindCSS dependencies and configuration files",
+    "status": "completed",
+    "id": "install-tailwind"
+  },
+  {
+    "content": "Build configuration form with theme, category, and color palette dropdowns",
+    "status": "completed",
+    "id": "create-config-form"
+  },
+  {
+    "content": "Build preview grid component with 5x2 responsive layout and iframe previews",
+    "status": "completed",
+    "id": "create-preview-grid"
+  },
+  {
+    "content": "Build full-size modal viewer for individual page preview",
+    "status": "completed",
+    "id": "create-modal-viewer"
+  },
+  {
+    "content": "Add API calls to backend at localhost:8001 for generation and exports",
+    "status": "completed",
+    "id": "implement-api-integration"
+  },
+  {
+    "content": "Implement single page HTML export and ZIP download for all pages",
+    "status": "completed",
+    "id": "add-export-functionality"
+  },
+  {
+    "content": "Add loading indicators and error handling throughout the app",
+    "status": "completed",
+    "id": "add-loading-states"
+  }
+]

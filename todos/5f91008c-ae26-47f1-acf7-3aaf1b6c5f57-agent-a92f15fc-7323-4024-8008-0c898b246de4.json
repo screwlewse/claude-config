@@ -1,0 +1,52 @@
+[
+  {
+    "content": "Create Tailwind CSS configuration with family-friendly design tokens",
+    "status": "in_progress",
+    "id": "1"
+  },
+  {
+    "content": "Set up Shadcn/ui with proper configuration and components",
+    "status": "pending",
+    "id": "2"
+  },
+  {
+    "content": "Configure Supabase client with @supabase/ssr for Next.js 14 app router",
+    "status": "pending",
+    "id": "3"
+  },
+  {
+    "content": "Set up React Query providers and configuration",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Create environment configuration files (.env.local.example, .env)",
+    "status": "pending",
+    "id": "5"
+  },
+  {
+    "content": "Organize project structure (components, lib, hooks, types folders)",
+    "status": "pending",
+    "id": "6"
+  },
+  {
+    "content": "Create mobile-first layout structure with navigation",
+    "status": "pending",
+    "id": "7"
+  },
+  {
+    "content": "Update app metadata and fonts for family-friendly branding",
+    "status": "pending",
+    "id": "8"
+  },
+  {
+    "content": "Create utility functions (cn, API helpers, etc.)",
+    "status": "pending",
+    "id": "9"
+  },
+  {
+    "content": "Set up TypeScript types for user roles and common data structures",
+    "status": "pending",
+    "id": "10"
+  }
+]

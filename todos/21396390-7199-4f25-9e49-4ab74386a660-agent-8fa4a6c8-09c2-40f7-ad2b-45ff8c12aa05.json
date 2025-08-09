@@ -1,0 +1,67 @@
+[
+  {
+    "content": "Set up React + Vite project in /Users/davidg/code/taskasaurus_app/frontend/",
+    "status": "completed",
+    "id": "setup_project"
+  },
+  {
+    "content": "Configure Tailwind CSS for styling",
+    "status": "completed",
+    "id": "configure_tailwind"
+  },
+  {
+    "content": "Create API client utility to connect to FastAPI backend at localhost:8000",
+    "status": "completed",
+    "id": "setup_api_client"
+  },
+  {
+    "content": "Build family creation form (User Story 1)",
+    "status": "completed",
+    "id": "create_family_form"
+  },
+  {
+    "content": "Build child join family form (User Story 2)",
+    "status": "completed",
+    "id": "create_join_family_form"
+  },
+  {
+    "content": "Build chore creation form for parents (User Story 3)",
+    "status": "completed",
+    "id": "create_chore_form"
+  },
+  {
+    "content": "Build family dashboard showing chores and points",
+    "status": "completed",
+    "id": "build_dashboard"
+  },
+  {
+    "content": "Implement child view to mark chores complete (User Story 4)",
+    "status": "completed",
+    "id": "implement_child_view"
+  },
+  {
+    "content": "Implement parent approval system for completed chores (User Story 5)",
+    "status": "completed",
+    "id": "implement_parent_approval"
+  },
+  {
+    "content": "Make all components mobile-responsive with Tailwind",
+    "status": "completed",
+    "id": "add_responsive_design"
+  },
+  {
+    "content": "Add localStorage for persisting family code and user role",
+    "status": "completed",
+    "id": "add_localStorage"
+  },
+  {
+    "content": "Test complete user workflow from family creation to chore approval",
+    "status": "completed",
+    "id": "test_complete_workflow"
+  },
+  {
+    "content": "Create frontend README with setup instructions",
+    "status": "completed",
+    "id": "create_readme"
+  }
+]

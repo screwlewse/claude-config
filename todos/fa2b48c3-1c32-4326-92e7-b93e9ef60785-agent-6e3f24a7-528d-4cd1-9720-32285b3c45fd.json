@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create FastAPI application structure with main.py and core endpoints",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Implement Pydantic models and schemas for API requests/responses",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create Claude CLI integration service for HTML generation",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Implement file management for temporary HTML storage",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Add CORS configuration for frontend integration",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Test the backend implementation in Docker environment",
+    "status": "completed",
+    "id": "6"
+  }
+]

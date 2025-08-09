@@ -1,0 +1,27 @@
+[
+  {
+    "content": "PM to ask clarifying questions about product vision and user needs",
+    "status": "in_progress",
+    "id": "1"
+  },
+  {
+    "content": "Refine PRD based on user feedback and questions",
+    "status": "pending",
+    "id": "2"
+  },
+  {
+    "content": "Engineers to define technical stack and architecture",
+    "status": "pending",
+    "id": "3"
+  },
+  {
+    "content": "Create final tech spec document",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Set up project structure in ~/code/tsaurus",
+    "status": "pending",
+    "id": "5"
+  }
+]

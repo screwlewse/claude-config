@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Set up Claude Code hooks configuration",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Configure TTS notification hooks",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Set up conversation logging hooks",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Test hooks are working properly",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

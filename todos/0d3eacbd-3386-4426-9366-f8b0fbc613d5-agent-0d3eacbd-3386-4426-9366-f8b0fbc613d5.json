@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Examine .claude directory structure and files",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Check for corrupted or oversized files",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Validate JSON configuration files",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Fix any issues found",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Report unfixable issues",
+    "status": "completed",
+    "id": "5"
+  }
+]

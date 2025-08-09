@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Install Next.js using npm",
+    "status": "completed",
+    "id": "install-nextjs"
+  },
+  {
+    "content": "Verify Next.js installation was successful",
+    "status": "completed",
+    "id": "verify-installation"
+  }
+]

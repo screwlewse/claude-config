@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Create comprehensive type definitions for dashboard data (chores, rewards, family members)",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Set up React Query hooks for dashboard API integration",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create Supabase real-time subscription hooks for live updates",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Build FamilyOverview section with member cards, points, and family stats",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Implement MyTasks section with role-based chore management (children vs parents)",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Build RewardsSection with redemption functionality and parent approval workflow",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Create interactive components (chore completion, reward redemption, approval flows)",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Replace mock dashboard with real data integration and API calls",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Test real-time updates and optimistic UI updates",
+    "status": "completed",
+    "id": "9"
+  }
+]

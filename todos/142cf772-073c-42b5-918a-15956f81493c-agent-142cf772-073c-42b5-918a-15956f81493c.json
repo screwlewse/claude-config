@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Create Python script to fetch latest CS2 tournaments from web sources",
+    "status": "completed",
+    "id": "create-cs2-tournament-scraper"
+  },
+  {
+    "content": "Test the script and validate tournament data output",
+    "status": "completed",
+    "id": "test-script-functionality"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Create a secure environment file ~/.env for sensitive tokens",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Move GITHUB_TOKEN to ~/.env file",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Remove GITHUB_TOKEN from ~/.zshrc",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add source ~/.env to ~/.zshrc",
+    "status": "completed",
+    "id": "4"
+  }
+]

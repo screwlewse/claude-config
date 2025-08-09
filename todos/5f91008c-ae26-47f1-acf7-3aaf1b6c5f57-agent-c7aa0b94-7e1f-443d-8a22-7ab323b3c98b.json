@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Update API integration to match backend endpoints exactly",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Enhance create reward dialog with categories and better point cost guidance",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Improve reward cards with affordability indicators and redemption flow",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Implement comprehensive redemption approval workflow for parents",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Add real-time point balance updates and celebrations",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Create enhanced reward management features for parents",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Test complete reward system workflow end-to-end",
+    "status": "completed",
+    "id": "7"
+  }
+]

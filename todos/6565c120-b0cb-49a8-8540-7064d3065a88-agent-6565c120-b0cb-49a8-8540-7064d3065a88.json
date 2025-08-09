@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create project structure in ~/code/tsaurus",
+    "status": "in_progress",
+    "id": "1"
+  },
+  {
+    "content": "Set up backend with FastAPI + PostgreSQL",
+    "status": "pending",
+    "id": "2"
+  },
+  {
+    "content": "Set up frontend with NextJS",
+    "status": "pending",
+    "id": "3"
+  },
+  {
+    "content": "Implement core family creation/joining flow",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Implement chore CRUD operations",
+    "status": "pending",
+    "id": "5"
+  },
+  {
+    "content": "Deploy and test with real family workflow",
+    "status": "pending",
+    "id": "6"
+  }
+]

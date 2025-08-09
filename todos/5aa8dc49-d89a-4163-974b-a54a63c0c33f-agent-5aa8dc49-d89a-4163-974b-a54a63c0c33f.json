@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Check if the application is running",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Test the problematic YouTube URL",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Improve error handling and messages",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Fix OpenAI API compatibility issues",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Add better logging and debugging",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

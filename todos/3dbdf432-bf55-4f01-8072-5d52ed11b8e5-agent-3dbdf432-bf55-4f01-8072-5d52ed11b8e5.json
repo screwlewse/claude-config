@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Create mandatory Project Kickoff Checklist for systematic engineering approach",
+    "status": "completed",
+    "id": "create-kickoff-checklist"
+  },
+  {
+    "content": "Design Technical Design Document template to prevent jumping to code",
+    "status": "completed",
+    "id": "create-tdd-template"
+  },
+  {
+    "content": "Build Pre-mortem Analysis framework for anticipating problems",
+    "status": "completed",
+    "id": "create-premortem-framework"
+  },
+  {
+    "content": "Create Architecture Decision Record (ADR) templates for documenting choices",
+    "status": "completed",
+    "id": "create-adr-templates"
+  },
+  {
+    "content": "Establish Production-First Development Standards checklist",
+    "status": "completed",
+    "id": "create-production-standards"
+  },
+  {
+    "content": "Build systematic Trade-off Analysis framework",
+    "status": "completed",
+    "id": "create-tradeoff-framework"
+  },
+  {
+    "content": "Create Deployment-First Documentation requirements",
+    "status": "completed",
+    "id": "create-deployment-docs"
+  },
+  {
+    "content": "Design feedback loops to catch reactive behaviors",
+    "status": "in_progress",
+    "id": "create-feedback-loops"
+  }
+]

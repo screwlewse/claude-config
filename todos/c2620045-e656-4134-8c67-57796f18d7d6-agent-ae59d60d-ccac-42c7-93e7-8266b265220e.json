@@ -1,0 +1,77 @@
+[
+  {
+    "content": "Fix TypeScript compilation errors in backend route handlers (auth.ts, families.ts) - add proper Express Request/Response type annotations",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Ensure all TypeScript strict mode requirements are met across backend",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix frontend test failures in Login/Register components - form validation error message rendering",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Fix frontend loading state management issues",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create proper .env files for development and production environments",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Remove hardcoded JWT secret from docker-compose.yml and use secure secrets",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Implement comprehensive error handling in backend routes",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Add proper Prisma error handling throughout backend",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Add input sanitization and validation to all endpoints",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Add proper database constraints and indexes to Prisma schema",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "Improve Prisma schema for data integrity",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "Add error handling for localStorage access in frontend",
+    "status": "completed",
+    "id": "12"
+  },
+  {
+    "content": "Improve error boundaries and retry logic in frontend",
+    "status": "completed",
+    "id": "13"
+  },
+  {
+    "content": "Ensure backend tests compile and run successfully",
+    "status": "in_progress",
+    "id": "14"
+  },
+  {
+    "content": "Run comprehensive test suite and fix any remaining failures",
+    "status": "pending",
+    "id": "15"
+  }
+]

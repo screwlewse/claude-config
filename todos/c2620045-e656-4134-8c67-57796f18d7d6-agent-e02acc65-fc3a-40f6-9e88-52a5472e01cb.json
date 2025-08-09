@@ -1,0 +1,52 @@
+[
+  {
+    "content": "Fix Vite environment variable access in api.ts and logger.ts - replace import.meta.env with proper Vite env access",
+    "status": "completed",
+    "id": "fix-typescript-env"
+  },
+  {
+    "content": "Fix API response data access pattern in auth.ts - standardize response.data vs response.data.data access",
+    "status": "completed",
+    "id": "fix-api-response-access"
+  },
+  {
+    "content": "Fix TaskForm.tsx recurring field error prop type mismatch (string vs boolean)",
+    "status": "completed",
+    "id": "fix-taskform-recurring"
+  },
+  {
+    "content": "Fix TaskCard.test.tsx null assignments to string | undefined fields",
+    "status": "completed",
+    "id": "fix-taskcard-test-nulls"
+  },
+  {
+    "content": "Fix PointsDisplay.test.tsx multiple elements matching date text test",
+    "status": "completed",
+    "id": "fix-pointsdisplay-test"
+  },
+  {
+    "content": "Fix Button component variant types - add 'outline' variant and update all usage",
+    "status": "completed",
+    "id": "fix-button-variant-types"
+  },
+  {
+    "content": "Fix Alert component type vs variant prop mismatch in pages",
+    "status": "completed",
+    "id": "fix-alert-type-variant"
+  },
+  {
+    "content": "Fix family API response access in FamilyManagement.tsx",
+    "status": "completed",
+    "id": "fix-family-api-response"
+  },
+  {
+    "content": "Remove all console.log debug statements and unused imports",
+    "status": "completed",
+    "id": "remove-debug-code"
+  },
+  {
+    "content": "Remove browser prompt() usage in Tasks.tsx and replace with proper UI components",
+    "status": "completed",
+    "id": "fix-browser-prompts"
+  }
+]

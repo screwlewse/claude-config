@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Check current dev server status",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Test frontend accessibility at localhost:3000",
+    "status": "completed",
+    "id": "2"
+  }
+]

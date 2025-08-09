@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Set up manual Shadcn-style components (Tailwind v4 compatible)",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update CSS variables and globals.css with custom design theme",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Set up Supabase client with @supabase/ssr configuration",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Configure React Query providers in layout",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create utility functions (cn, color palette helpers)",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Build core design system components (Card, Avatar, Button)",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Create family-specific components (FamilyCard, ChoreCard, UserAvatar)",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Update layout.tsx with providers and proper metadata",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Create demo page showcasing the design system",
+    "status": "completed",
+    "id": "9"
+  }
+]

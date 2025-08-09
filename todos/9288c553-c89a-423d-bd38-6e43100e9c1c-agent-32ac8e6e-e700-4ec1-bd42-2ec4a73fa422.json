@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Analyze current frontend codebase and Supabase usage",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Remove Supabase dependencies from package.json",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Delete Supabase client code and remove environment variables",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Create HTTP API client with JWT token management",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create authentication system (context, hooks, utils)",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Create API service layer for auth, families, chores, rewards",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Create authentication forms components",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Update existing components to use new API services",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Test authentication flow and API integration",
+    "status": "completed",
+    "id": "9"
+  }
+]

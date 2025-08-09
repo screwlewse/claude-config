@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check hook names match Claude Code's expected hooks",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Test if the play-sound script works with absolute paths",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Update hooks to use correct Claude Code event names",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test the corrected hook configuration",
+    "status": "completed",
+    "id": "4"
+  }
+]

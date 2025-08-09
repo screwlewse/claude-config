@@ -1,0 +1,82 @@
+[
+  {
+    "content": "BACKEND: Stop and clean up all Supabase containers and images",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "BACKEND: Remove Supabase dependencies from requirements.txt",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "BACKEND: Replace Supabase authentication with standard JWT + bcrypt",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "BACKEND: Update database connection for direct PostgreSQL",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "BACKEND: Create user registration/login endpoints",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "BACKEND: Update all API routers for new auth system",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "FRONTEND: Remove Supabase frontend dependencies and client code",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "FRONTEND: Create HTTP client for backend API calls",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "FRONTEND: Implement authentication forms and state management",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "DEVOPS: Create PostgreSQL + Redis Docker setup for development",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "DEVOPS: Configure Railway deployment for PostgreSQL + Redis",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "DEVOPS: Update database schema and migration scripts",
+    "status": "completed",
+    "id": "12"
+  },
+  {
+    "content": "Update test configuration and fix Makefile Python commands",
+    "status": "completed",
+    "id": "13"
+  },
+  {
+    "content": "Update environment files and documentation",
+    "status": "completed",
+    "id": "14"
+  },
+  {
+    "content": "TESTING: Docker infrastructure validation - ALL CONTAINERS WORKING",
+    "status": "completed",
+    "id": "15"
+  },
+  {
+    "content": "TESTING: Core functionality validation - DATABASE + AUTH WORKING",
+    "status": "completed",
+    "id": "16"
+  }
+]

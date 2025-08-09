@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Review architecture decisions and technology stack",
+    "status": "in_progress",
+    "id": "1"
+  },
+  {
+    "content": "Evaluate system design and data models",
+    "status": "pending",
+    "id": "2"
+  },
+  {
+    "content": "Assess scalability and performance considerations",
+    "status": "pending",
+    "id": "3"
+  },
+  {
+    "content": "Review security architecture and phased approach",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Identify technical debt and risks",
+    "status": "pending",
+    "id": "5"
+  },
+  {
+    "content": "Provide recommendations and improvements",
+    "status": "pending",
+    "id": "6"
+  }
+]

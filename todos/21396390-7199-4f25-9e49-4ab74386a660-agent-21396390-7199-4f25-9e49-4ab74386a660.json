@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Create GitHub repository for clean Taskasaurus project",
+    "status": "completed",
+    "id": "46"
+  },
+  {
+    "content": "Start building MVP backend with FastAPI + uv",
+    "status": "completed",
+    "id": "42"
+  },
+  {
+    "content": "Build React frontend for MVP",
+    "status": "completed",
+    "id": "48"
+  },
+  {
+    "content": "Set up Docker containers and Makefile with devops-engineer",
+    "status": "completed",
+    "id": "49"
+  },
+  {
+    "content": "Set up project structure with optimized toolchain",
+    "status": "completed",
+    "id": "43"
+  }
+]

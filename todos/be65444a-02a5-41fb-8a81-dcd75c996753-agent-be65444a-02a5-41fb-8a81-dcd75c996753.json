@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Create logs directory structure",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create command logging script",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Update settings.json to add logging hook",
+    "status": "completed",
+    "id": "3"
+  }
+]

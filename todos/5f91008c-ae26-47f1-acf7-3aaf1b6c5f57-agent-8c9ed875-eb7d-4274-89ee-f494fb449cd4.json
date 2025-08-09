@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Create authentication types and schemas for family registration/joining",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Set up Supabase auth hooks and utilities for authentication state management",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create form components (Input, Label, Form) needed for auth forms",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Build main auth page (/auth) with login/register toggle",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create family registration form for parents to create new families",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Create family joining form for members to join with family codes",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Implement protected route system with auth guards",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Create API integration functions for family creation and joining",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Add role-based access control and UI differences for parents vs children",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Implement profile management to link Supabase auth with users table",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "Add loading states, error handling, and success feedback throughout auth flows",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "Update middleware.ts for route protection and auth redirects",
+    "status": "completed",
+    "id": "12"
+  }
+]

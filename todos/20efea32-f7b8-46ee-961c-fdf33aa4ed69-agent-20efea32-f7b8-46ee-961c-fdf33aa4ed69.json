@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Research and decide on container build approach (Dockerfile vs Cloud Native Buildpacks)",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create directory structure for containerized development environment",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create container image for unified development environment",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create Helm chart for Kubernetes deployment",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Create helper scripts for developers to use containers",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Fix architecture issues in Dockerfile",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Test the containerized development environment",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  }
+]

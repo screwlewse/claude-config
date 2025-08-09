@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Set up Puppeteer browser automation for UI testing",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix frontend API endpoint configuration",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Test login functionality with valid credentials",
+    "status": "in_progress",
+    "id": "3"
+  },
+  {
+    "content": "Test dashboard navigation and basic UI elements",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Test family management features",
+    "status": "pending",
+    "id": "5"
+  },
+  {
+    "content": "Test task/chore creation workflow",
+    "status": "pending",
+    "id": "6"
+  },
+  {
+    "content": "Test child account functionality",
+    "status": "pending",
+    "id": "7"
+  }
+]

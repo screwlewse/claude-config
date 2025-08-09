@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Create ~/code/video_summarizer directory structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create Python script to extract YouTube video transcripts",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Add AI summarization functionality using OpenAI API",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create requirements.txt with dependencies",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Create README.md with usage instructions",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Test the tool with a sample YouTube video",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  }
+]

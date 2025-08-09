@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Document the updated 2-tier monetization model properly",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Research n8n and Freshdesk integration for customer support",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Design automated customer support workflows",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create customer support strategy document",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Update all documentation with final pricing model",
+    "status": "pending",
+    "priority": "medium",
+    "id": "5"
+  }
+]
