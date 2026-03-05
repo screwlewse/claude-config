@@ -4,3 +4,40 @@ logs/
 *.log
 .env
 .env.local
+
+# Session data
+projects/
+todos/
+shell-snapshots/
+backups/
+debug/
+paste-cache/
+file-history/
+history.jsonl
+tasks/
+tts/
+session-env/
+
+# Personal/machine-specific
+.claude.json
+.claude.json.*
+settings.local.json
+.claude/
+
+# Runtime artifacts
+__pycache__/
+*.pyc
+ide/
+telemetry/
+downloads/
+hooks/
+cache/
+sounds/
+
+# Plugin internals
+plugins/marketplaces/
+plugins/install-counts-cache.json
+
+# Project-specific skill symlinks (skills live in their project repos)
+skills/notebooklm
+skills/yt-search

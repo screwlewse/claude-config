@@ -29,8 +29,7 @@
       "Bash(cd *)",
       "Bash(ls *)",
       "Bash(which *)",
-      "Bash(find /Users/davidg/code/taskasaurus*)",
-      "Bash(find /Users/davidg/.claude*)",
+      "Bash(find ~/.claude*)",
       "Bash(pwd)",
       "Bash(afplay *)",
       "Bash(python3 ~/.claude/play-sound.py *)",
@@ -38,9 +37,9 @@
       "mcp__filesystem__read_file",
       "mcp__memory__store",
       "mcp__fetch__fetch",
-      "mcp__github__*",
       "mcp__context7__*",
-      "mcp__puppeteer__*"
+      "mcp__puppeteer__*",
+      "mcp__playwright__*"
     ],
     "requireConfirmation": [
       "Write",
@@ -58,7 +57,7 @@
       "mcp__filesystem__write_file"
     ]
   },
-  "model": "sonnet",
+  "model": "opusplan",
   "hooks": {
     "Notification": [
       {
@@ -66,11 +65,11 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3 /Users/davidg/.claude/play_sound.py question"
+            "command": "python3 ~/.claude/play_sound.py question"
           },
           {
             "type": "command",
-            "command": "python3 /Users/davidg/.claude/log_command.py"
+            "command": "python3 ~/.claude/log_command.py"
           }
         ]
       }
@@ -81,7 +80,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3 /Users/davidg/.claude/play_sound.py done"
+            "command": "python3 ~/.claude/play_sound.py done"
           }
         ]
       }
@@ -137,20 +136,11 @@
         "@modelcontextprotocol/server-fetch"
       ]
     },
-    "github": {
+    "playwright": {
       "command": "npx",
       "args": [
         "-y",
-        "@modelcontextprotocol/server-github"
-      ],
-      "env": {
-        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_TOKEN}"
-      }
-    },
-    "puppeteer": {
-      "command": "node",
-      "args": [
-        "/Users/davidg/code/taskasaurus-mvp/local-puppeteer-mcp.js"
+        "@microsoft/playwright-mcp"
       ]
     }
   }

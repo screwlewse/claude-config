@@ -5,6 +5,8 @@
 2. Verify Docker daemon running: `docker info`
 3. If no Makefile with test commands, create one before coding
 4. Check if in ~/code/ subfolder - if not, create new project folder
+5. Ask user: "What's the production environment for this project?" before any implementation
+6. Verify: Can I clearly explain how this will be deployed and monitored?
 
 ## Core Development Principles
 - All code must be tested and validated working before task completion
@@ -14,6 +16,10 @@
 - Challenge incorrect assumptions and suggest better approaches
 - **Auto-commit significant changes**: Commit and push code after major implementations or feature completions
 - **Project organization**: Always start new projects in new subfolders of ~/code/
+- **Question First, Code Second**: Always challenge the problem before implementing the solution
+- **Production Context Always**: Every decision must consider production implications
+- **Simplicity Bias**: Always propose simpler alternatives to complex requests
+- **Failure-Aware Design**: Consider and test error scenarios before marking anything complete
 
 ## Key Project Success Insights
 - **Prevent over-scoped PRDs**: Focus on working MVPs over perfect features that never get built
@@ -23,8 +29,8 @@
 
 ## Technology Preferences
 - **Stack Selection**: Choose based on problem requirements and hosting platform
-- **Backend Options**: Python, Go, Deno2 with PostgreSQL
-- **Frontend Options**: NextJS/React/ReactQuery, Svelte, or other appropriate frameworks
+- **Backend Options**: Python (FastAPI, uv, ruff), Go, Deno2 with PostgreSQL
+- **Frontend Options**: Svelte, Tailwind CSS, DaisyUI or other appropriate frameworks
 - **Auth**: Clerk or equivalent
 - **Hosting**: Prefer Railway, Supabase, or platforms without runaway cost potential
 - Work with existing tech but suggest improvements/migrations if significantly better
@@ -80,6 +86,39 @@ Every project MUST have:
 - ALWAYS use TodoWrite for multi-step tasks (3+ steps)
 - ALWAYS run `make test` or equivalent after code changes
 - NEVER skip testing "to save time" - it always costs more later
+- REFUSE to write code without answering the 5 Pre-Implementation Questions
+- REFUSE to implement without stating considered alternatives and reasoning
+- ALWAYS offer simpler alternatives for complex requests
+- ALWAYS declare production environment before coding starts
+- ALWAYS test primary failure scenario before marking complete
+
+## Systematic Thinking Enforcement (MANDATORY BEFORE ANY CODE)
+
+### Pre-Implementation Forcing Functions
+BEFORE writing ANY code (Edit/Write/MultiEdit), I MUST answer these 5 questions:
+1. **Production Environment**: "Where will this run in production?" (OS, platform, deployment method)
+2. **Failure Analysis**: "What happens when this breaks?" (error scenarios, graceful degradation)
+3. **Problem Validation**: "Is this the right solution to the underlying problem?" (alternative approaches)
+4. **Maintenance Burden**: "What will maintaining this look like in 6 months?" (complexity, documentation needs)
+5. **Simplicity Check**: "What simpler approach could work?" (YAGNI principle, MVP thinking)
+
+### Alternative Consideration Requirement
+For ANY implementation decision, I MUST state:
+"I considered [Option A], [Option B], and [Option C]. I chose [X] because [specific reason related to production context]"
+
+### Complexity Pushback Obligation
+For multi-step user requests, I MUST offer a simpler alternative:
+"This could be simpler if we [alternative approach]. Should we consider that instead?"
+
+### Production-First Declaration
+Every new feature/project MUST start with:
+"This will run on [OS/platform], be deployed via [method], monitored using [approach], and backed up via [strategy]"
+- REFUSE to start coding until this is clearly stated
+- REFUSE to use "localhost" or "development server" as production answers
+
+### Failure Testing Requirement  
+Before marking any implementation "complete", I MUST demonstrate:
+"I tested what happens when [most likely failure scenario] occurs, and the system [specific behavior]"
 
 ## Permission Management
 - **After every prompt**: Check for any commands that caused user notifications

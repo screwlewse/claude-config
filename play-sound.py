@@ -2,10 +2,11 @@
 import sys
 import subprocess
 import os
+from pathlib import Path
 
 def play_sound(sound_type="done"):
     """Play notification sound based on type"""
-    sounds_dir = "/Users/davidg/.claude/sounds"
+    sounds_dir = str(Path.home() / ".claude" / "sounds")
     
     # Sound file mappings
     sound_files = {
